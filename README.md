@@ -30,3 +30,4 @@ To run this project locally, follow these steps:
    ```bash
    git clone <repository_url>
    cd "RepoName"
+![App Image](./public/Screenshot 2024-07-15 120841.png)
